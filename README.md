@@ -28,13 +28,15 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User will be able to log in.
+* User will be able to show stories of whoever is on the app.
+* User will be able to add to/delete from their story.
+* User will be able to access a map.
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User will be able to send messages to other users.
+* User will be able to access photos stored on phone.
 
 ### 2. Screen Archetypes
 
