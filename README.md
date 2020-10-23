@@ -11,10 +11,10 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[A Simple version of Snapchat]
+A Simple version of Snapchat
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+Evaluation of your app across the following attributes
 - **Category:**
 - **Mobile:**
 - **Story:**
@@ -41,28 +41,31 @@ Original App Design Project - README Template
 ### 2. Screen Archetypes
 
 * [list first screen here]
-   * [list associated required story here]
-   * ...
+   * Login page
 * [list second screen here]
-   * [list associated required story here]
-   * ...
+   * Stream page
+   * Stories page
+   * camera 
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Stream
+* stories
+* login/prfile
+* camera
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Stream
+   * stories
+   * login camera
+* Stories
+   * stream
+   * camera
+* Login
+    *None
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
