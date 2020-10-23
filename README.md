@@ -11,7 +11,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-[Description of your app]
+[A Simple version of Snapchat]
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
