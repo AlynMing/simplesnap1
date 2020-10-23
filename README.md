@@ -40,9 +40,9 @@ Evaluation of your app across the following attributes
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
+* First screen
    * Login page
-* [list second screen here]
+* Second screen
    * Stream page
    * Stories page
    * camera 
