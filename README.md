@@ -86,6 +86,14 @@ Evaluation of your app across the following attributes
 |title |String |Caption for story |
 |date_added |DateTime |Date the story was posted |
 
+#### User
+|Property |Type |Description  |
+|--------|----|-----------|
+|username |String |Username of user  |
+|password |String |Password of user  |
+|Name |String |preferred name of user |
+|Bio |String |Bio of the user |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
