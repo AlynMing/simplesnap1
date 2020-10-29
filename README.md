@@ -76,9 +76,16 @@ Evaluation of your app across the following attributes
 ### [BONUS] Interactive Prototype
 
 ## Schema 
-[This section will be completed in Unit 9]
 ### Models
-[Add table of models]
+#### Story
+|Property |Type |Description  |
+|--------|----|-----------|
+|object_id  |String |ID for the story object  |
+|author|Pointer to User |Author of story  |
+|image |File |File used for the story |
+|title |String |Caption for story |
+|date_added |DateTime |Date the story was posted |
+
 ### Networking
 - [Add list of network requests by screen ]
 - [Create basic snippets for each Parse network request]
