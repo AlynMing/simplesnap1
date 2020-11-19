@@ -31,7 +31,7 @@ Evaluation of your app across the following attributes
 - [x] User will be able to log in.
 - [ ] User will be able to show stories of whoever is on the app.
 - [ ] User will be able to add to/delete from their story.
-- [ ] User will be able to access a map.
+
 
 **Optional Nice-to-have Stories**
 
