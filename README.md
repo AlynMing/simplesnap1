@@ -29,8 +29,8 @@ Evaluation of your app across the following attributes
 **Required Must-have Stories**
 
 - [x] User will be able to log in.
-- [ ] User will be able to show stories of whoever is on the app.
-- [ ] User will be able to add to/delete from their story.
+- [x] User will be able to show stories of whoever is on the app.
+- [x] User will be able to add to/delete from their story.
 
 
 **Optional Nice-to-have Stories**
