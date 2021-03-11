@@ -28,9 +28,9 @@ Evaluation of your app across the following attributes
 
 **Required Must-have Stories**
 
-- [x] User will be able to log in.
-- [x] User will be able to show stories of whoever is on the app.
-- [x] User will be able to add to/delete from their story.
+- [ ] User will be able to log in.
+- [ ] User will be able to show stories of whoever is on the app.
+- [ ] User will be able to add to/delete from their story.
 
 
 **Optional Nice-to-have Stories**
@@ -77,22 +77,7 @@ Evaluation of your app across the following attributes
 
 ## Schema 
 ### Models
-#### Story
-|Property |Type |Description  |
-|--------|----|-----------|
-|object_id  |String |ID for the story object  |
-|author|Pointer to User |Author of story  |
-|image |File |File used for the story |
-|title |String |Caption for story |
-|date_added |DateTime |Date the story was posted |
 
-#### User
-|Property |Type |Description  |
-|--------|----|-----------|
-|username |String |Username of user  |
-|password |String |Password of user  |
-|Name |String |preferred name of user |
-|Bio |String |Bio of the user |
 
 ### Networking
 - [Add list of network requests by screen ]
